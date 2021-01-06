@@ -1,0 +1,162 @@
+.col-half{
+    width: 50%;
+    float: left;
+}
+.navbar{
+    text-align: right;
+    padding: 20px 0;
+}
+.navbar ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.navbar ul li{
+    display: inline-block;
+}
+.navbar ul li a{
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    color: #6C6C6C;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    font-size: 45px;
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 70px;
+}
+p{
+    color: dimgray;
+    font-size: 19px;   
+}
+.mid-section{
+    max-width: 1180px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.name-highlight{
+    color: rgb(19, 3, 236);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 3%
+}
+.half-width img{
+    width: 80%;
+}
+.top-banner{
+    padding-top: 4%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    font-size: 20px;
+    text-decoration: none;
+    background-image: linear-gradient(Tomato, rgb(255, 1, 1));
+    padding: 25px 30px 25px 30px;
+    border-radius: 7px;
+    color: seashell;
+    font-weight: 700px;
+}
+.align-center{
+    text-align: center;
+}
+.heading-title{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    color: #363958;
+    font-size: 49px;
+    padding-bottom: 20px;
+    letter-spacing: 2px;
+}
+.works__block {
+    width: 25.33%;
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 2%;
+    float: left;
+    box-shadow:0 7px 15px rgba(0,0,0,.15);
+}
+.works__block h3 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 23px;
+    color: #363958;
+}
+.works__block p{
+    margin: 0;
+}
+.works__block img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+.inquiry-box{
+    width: 70%;
+    margin: auto;
+    padding: 80px 60px;
+    border-radius: 30px;
+    overflow: hidden;
+    background: url('images/logo.png') no-repeat scroll center center /cover;
+}
+.inquiry-box h2{
+    font-size: 64px;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.inquiry-btn {
+    text-align: right;
+    margin-top: 27px;
+}
+.footer{
+    text-align: center;
+    padding: 100px 0;
+}
+.footer h4{
+    color: #696871;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    padding-top: 0;
+    padding: 0px;
+    margin: 0;
+    letter-spacing: 2px;
+}
+.footer .email a{
+    font-size: 36px;
+    color: #363958;
+    padding: 20px 0;
+    margin: 0;
+    text-decoration: none;
+    display: inline-block;
+}
+.footer-social ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.footer-social ul li {
+    display: inline-block;
+}
+.footer-social ul li a {
+    display: block;
+    padding: 10px;
+}
+.footer-social ul li a img {
+    width: 40px;
+    height: 40px;
+}
